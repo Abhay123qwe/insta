@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'instagram-clone-8e9e0',
     storageBucket: 'instagram-clone-8e9e0.appspot.com',
   );
+
 }
